@@ -1,6 +1,6 @@
 "use strict";
 
-const MAIN_PORT = 8010; //1337;
+const MAIN_PORT = 1337; //8010;
 
 // Imports dependencies and set up http server
 const express = require("express"),
